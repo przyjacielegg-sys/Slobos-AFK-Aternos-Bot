@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Matukubonikowice.aternos.me",
+    "port": 15398,
+    "version": 1.20"",
     "try-creative": false
   },
   "position": {
